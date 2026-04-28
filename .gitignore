@@ -73,3 +73,6 @@ dmypy.json
 .pyre/
 .pytype/
 .ruff_cache/
+
+# Local hand-off / work-in-progress notes (kept out of repo)
+_WIP.md
