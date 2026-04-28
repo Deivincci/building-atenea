@@ -2,7 +2,9 @@
   <img src="assets/atenea-logo.png" alt="Atenea logo" width="300">
 </p>
 
-# building-atenea
+<h1 align="center">building-atenea</h1>
+
+<p align="center"><em>Building an autonomous pentesting agent in public.</em></p>
 
 Atenea is an autonomous pentesting agent powered by a locally-hosted fine-tuned LLM. Source code kept private; this repo documents the development process.
 
